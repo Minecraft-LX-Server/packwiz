@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = false
+default = true
 description = """
 [[ 安装时需要钠 Sodium ]]
 [[ 安装 Continuity 时需要]]
