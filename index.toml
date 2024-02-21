@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7ae2e458e7f744a7d11583ea74f3b93a7cd7124bace0dfd73217179364b23872"
+hash = "7faa82496820e3cbcf9375552071fc37f04dc6c2aa1c9055bb71dddddd2f80cc"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/orderly-fabric-2-0.pw.toml"
-hash = "3886b4d3573cfffb04b6cde347dab6bc3f695cdcde116a078094b751ed899151"
+hash = "3030436fcc84611b20d1cbf0636945f3bdc27507e93adb568b61fc69ea923ef1"
 metafile = true
 
 [[files]]

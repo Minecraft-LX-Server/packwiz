@@ -6,6 +6,7 @@ side = "both"
 optional = true
 default = false
 description = """
+[[ 安装时需要 Cloth Config API ]]
 极简血量显示。还不知道有什么用。
 """
 
