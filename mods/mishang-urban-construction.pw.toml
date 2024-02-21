@@ -1,0 +1,13 @@
+name = "迷上城建 Mishang Urban Construction"
+filename = "mishanguc-1.2.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rItLmRo4/versions/2co3V9dY/mishanguc-1.2.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "f82853312bf9b636770f8a59f768e5f3f801ba55"
+
+[update]
+[update.modrinth]
+mod-id = "rItLmRo4"
+version = "2co3V9dY"

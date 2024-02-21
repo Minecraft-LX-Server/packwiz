@@ -1,0 +1,20 @@
+name = "WI 变焦 WI Zoom"
+filename = "WI-Zoom-1.4-MC1.19.2.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = """
+V 键放大。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/G95e71N3/WI-Zoom-1.4-MC1.19.2.jar"
+hash-format = "sha1"
+hash = "553803318f57bc7ac6efb6b63cff720dd51b721e"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "G95e71N3"

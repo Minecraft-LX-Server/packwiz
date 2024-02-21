@@ -1,0 +1,21 @@
+name = "输入法冲突修复 IMBlockerFabric"
+filename = "imblockerfabric-1.0.24.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = """
+[[ 与游戏内输入法续更版 ContingameIME 选其一即可 ]]
+对英文玩家可能没用。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/752GQt04/versions/MGxMpFT6/imblockerfabric-1.0.24.jar"
+hash-format = "sha1"
+hash = "f5abb2ba23df3cda0429ce816588b3483b9d14e5"
+
+[update]
+[update.modrinth]
+mod-id = "752GQt04"
+version = "MGxMpFT6"

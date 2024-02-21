@@ -1,0 +1,23 @@
+name = "钠 · 扩展 Sodium Extra"
+filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = """
+[[ 强烈推荐 Recommened ]]
+[[ 安装时需要钠 Sodium ]]
+[[ 安装更好的钠视频设置按钮 Better Sodium Video Settings Button 时需要 ]]
+钠的附属模组。添加了更多功能。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar"
+hash-format = "sha1"
+hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "MTxUvPFz"

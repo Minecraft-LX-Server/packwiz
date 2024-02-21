@@ -1,0 +1,22 @@
+name = "钠 Sodium"
+filename = "sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = """
+[[ 强烈推荐 Recommended ]]
+[[ 安装更好的钠视频设置按钮 Better Sodium Video Settings Button / 钠 · 扩展 Sodium Extra / Reese 的钠视频界面 Reese's Sodium Options / 铟 Indium / Iris Shader 时需要 ]]
+钠在修复一些图形问题的同时大大提高渲染性能，相比 OptiFine 有着更强的兼容性。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar"
+hash-format = "sha1"
+hash = "227648dc4f6a8604bafc282612a6de47eff70cd8"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "rAfhHfow"

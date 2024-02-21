@@ -1,0 +1,22 @@
+name = "Reese 的钠视频界面 Reese's Sodium Options"
+filename = "reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = """
+[[ 安装时需要钠 Sodium ]]
+[[ 安装更好的钠视频设置按钮 Better Sodium Video Settings Button 时需要 ]]
+钠的附属模组。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/uCsFu5xs/reeses_sodium_options-1.6.4%2Bmc1.19.2-build.93.jar"
+hash-format = "sha1"
+hash = "b3e82b1a9a226575dff81690559281d02e417e23"
+
+[update]
+[update.modrinth]
+mod-id = "Bh37bMuy"
+version = "uCsFu5xs"

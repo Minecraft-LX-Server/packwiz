@@ -1,0 +1,21 @@
+name = "Xaero 的小地图 Xaero's Minimap"
+filename = "Xaeros_Minimap_23.9.7_Fabric_1.19.1.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = """
+[[ 强烈推荐 Recommened ]]
+一个原版风格的小地图。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/dMqrko5J/Xaeros_Minimap_23.9.7_Fabric_1.19.1.jar"
+hash-format = "sha1"
+hash = "c13819ae7debef97a7d78108f5ba081cda7aff8d"
+
+[update]
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "dMqrko5J"

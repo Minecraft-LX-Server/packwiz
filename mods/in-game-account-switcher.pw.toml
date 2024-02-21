@@ -1,0 +1,20 @@
+name = "游戏内账号切换 In-Game Account Switcher"
+filename = "InGameAccountSwitcher-Fabric-1.19-8.0.1.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = """
+如果你有很多账号，那么这个很有用。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/cudtvDnd/versions/Gfoy4CTP/InGameAccountSwitcher-Fabric-1.19-8.0.1.jar"
+hash-format = "sha1"
+hash = "8b28ba8decc9be24597391563d5bce2b8f669317"
+
+[update]
+[update.modrinth]
+mod-id = "cudtvDnd"
+version = "Gfoy4CTP"
