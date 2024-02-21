@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3d33ec49e5e4398db49e78bb398817d64edf8ee007718741ae27e208d6b34d26"
 metafile = true
@@ -97,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "124ab9dca1322d37ca831bebf207ed4d0b51e812e57ba5fc8f9d06c5d1a95cf8"
+hash = "28ea9437e1d0816033758cc693b225820a1fff25ce259cc6058e815c2ffe827e"
 metafile = true
 
 [[files]]

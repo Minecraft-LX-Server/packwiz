@@ -8,7 +8,9 @@ default = false
 description = """
 [[ 安装时需要钠 Sodium ]]
 [[ 安装 Continuity 时需要]]
+[[ 安装钠 Sodium 时需要 ]]
 钠 Sodium 的附属模组。
+为什么在安装钠 Sodium 时需要？这是因为钠 Sodium 与机械动力 Create 同时安装时不安装铟 Indium 可能会导致一些问题。
 """
 
 [download]
