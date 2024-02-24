@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3d33ec49e5e4398db49e78bb398817d64edf8ee007718741ae27e208d6b34d26"
 metafile = true
@@ -177,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "fb73aca075a3f75b80c1c712e9737cc8133c0eed0b4ce50e9c33e0c58144d763"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater.pw.toml"
+hash = "a3596b7b8f52e792d2c3135fdcc5316b4a2e4ecfe06a90731e1bcae2aea8fd5c"
 metafile = true
 
 [[files]]
