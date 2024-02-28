@@ -2,6 +2,14 @@ name = "Distant Horizons"
 filename = "DistantHorizons-2.0.1-a-1.19.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = """
+[[ 和光影不兼容 ]]
+可以提供更广泛的视角！
+"""
+
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar"
 hash-format = "sha1"
