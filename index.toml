@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3d33ec49e5e4398db49e78bb398817d64edf8ee007718741ae27e208d6b34d26"
+hash = "5bd6e18fa05fd82e4336398a856df564af173bde5106dbe39c5682b28de21e0b"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a35b0ff4dfa766ead8c76eed5c38ff5ba325b817699d43d2b61b422ddcb2796d"
+hash = "b09ba063b0ebe97c0c45f9b42bff714519fdb3cfb385040f933d982317382dde"
 metafile = true
 
 [[files]]
