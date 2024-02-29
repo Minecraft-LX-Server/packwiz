@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackupdater.pw.toml"
-hash = "a3596b7b8f52e792d2c3135fdcc5316b4a2e4ecfe06a90731e1bcae2aea8fd5c"
+hash = "621f7f57c3d506d8d566959393e0de76d539ed9d30fa2be1f384512a7e7b336f"
 metafile = true
 
 [[files]]
