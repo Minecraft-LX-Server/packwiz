@@ -1,22 +1,18 @@
 name = "WTHIT"
-filename = "wthit-fabric-5.22.2.jar"
+filename = "wthit-fabric-5.23.0.jar"
 side = "both"
 
-[option]
-optional = true
-default = true
-description = """
-[[ 强烈推荐 Recommended ]]
-[[ 安装时需要 bad packets ]]
-1.19.2 版本下的 Hwyla / Waila。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/hVDAE4aF/wthit-fabric-5.22.2.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/TYLNjm3b/wthit-fabric-5.23.0.jar"
 hash-format = "sha1"
-hash = "a2d643e5d2c83f0f2ecf84756723e57517cfb5db"
+hash = "fda6f261a8ab244e9410a5fcfad17a948d4f88aa"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "hVDAE4aF"
+version = "TYLNjm3b"
+
+[option]
+optional = true
+description = "[[ 强烈推荐 Recommended ]]\n[[ 安装时需要 bad packets ]]\n1.19.2 版本下的 Hwyla / Waila。\n"
+default = true

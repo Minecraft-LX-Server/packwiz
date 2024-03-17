@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56b9f6cd143dd7d37a43fbc8e16b0059c6a85cc9160126b1a9c9794596d0a183"
+hash = "7d6840e1fd9bd47ed0f9e7015b2a59fe01d6e70ce59fb69a664b916c194182bc"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "fb73aca075a3f75b80c1c712e9737cc8133c0eed0b4ce50e9c33e0c58144d763"
+hash = "1edcec07cec938f0ec62f29789ba81f12b1d948b2e09843e27d974b386d1df5b"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a15df018621bc3e9ddf40bf982ee3aeb8a078318a79bb225c7d44f7c26a87a87"
+hash = "52f2581b4a54adef71f1b26129df1fc1d6dcec8b3729edf7049f80bdc839726e"
 metafile = true
 
 [[files]]
