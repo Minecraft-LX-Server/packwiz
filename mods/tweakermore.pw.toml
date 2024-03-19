@@ -1,22 +1,18 @@
 name = "TweakerMore"
-filename = "tweakermore-mc1.19.2-v3.16.0.jar"
+filename = "tweakermore-mc1.19.2-v3.17.0.jar"
 side = "client"
 
-[option]
-optional = true
-default = true
-description = """
-[[ 强烈推荐 Recommened ]]
-[[ 安装时需要 MaLiLib ]]
-客户端微调工具箱。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/GBeCx05I/versions/UdrdVl6V/tweakermore-mc1.19.2-v3.16.0.jar"
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/jaaTi6co/tweakermore-mc1.19.2-v3.17.0.jar"
 hash-format = "sha1"
-hash = "fd430d0bc5579658365375a3732759a838660a18"
+hash = "cd0af99fd83dad39aab8cb8082f45cead62b7160"
 
 [update]
 [update.modrinth]
 mod-id = "GBeCx05I"
-version = "UdrdVl6V"
+version = "jaaTi6co"
+
+[option]
+optional = true
+description = "[[ 强烈推荐 Recommened ]]\n[[ 安装时需要 MaLiLib ]]\n客户端微调工具箱。\n"
+default = true

@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "ef16a6191bbbf52dcd233ef00f8dd9ba537431f10d620e722425d7199ec4ba64"
+hash = "81d6b61f346d2331812e043d25ac86374d49d255bb89077663ec268e96cdfab5"
 metafile = true
 
 [[files]]
@@ -257,10 +257,14 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bfe7f1f991576ef1a3d2b2d66bf8c932898dfe96d5e6a41a733a721f97b6e584"
+hash = "8c2172d370b5a266817a2f7ac92ba4b71b064378ee546f92ec4695faafdc418b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ebad54c4806b60bcbcc2d9ee7a24a92a7b1a7e6a6ad186c79b5e6e5cfad19b57"
+hash = "2ba1b5913179882d68f7e3837b20f0c4f986f990f6b4c452eb35cb907d5e50e9"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "5ff2357e82a2be7b791f715c15658991d32f479c0daf82641103c4f80a250937"
